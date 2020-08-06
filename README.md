@@ -22,8 +22,7 @@
 ---
 
 ## Projeto
-**Proffy** é um projeto que visa criar uma plataforma de estudos online. 
-O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
+**Proffy** é um projeto que visa criar uma plataforma de estudos online.<br>O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
 <br>
 
 ---
