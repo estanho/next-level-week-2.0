@@ -8,7 +8,6 @@
   },
   "keywords": [],
   "author": "Pedro Henrique da Rosa Garcia",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2"
