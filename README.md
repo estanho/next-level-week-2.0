@@ -31,10 +31,6 @@
   <img src="github/imagem.gif">
 </p>
 
-<p align="center">
-  <img src="github/imagem1.gif">
-</p>
-
 ---
 ## Tecnologias
 
